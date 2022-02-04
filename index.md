@@ -10,7 +10,7 @@ Some of the software tools can be found in the [VQEG Tools page](https://vqeg.gi
 
 ## Current Projects
 
-[Projects](/projects/)
+[Projects](./projects/)
 
 ### Contact
 
