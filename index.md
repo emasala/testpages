@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## VQEG JEG
+
+The Joint Effort Group is an activity of the [Video Quality Experts Group (VQEG)](https://vqeg.org) created in 2009 that proposes an alternative collaborative action. Usually, VQEG inspects models performance from individual proponents with respects to jointly developed test plans in a competitive manner.
 
 # TEST SECTION
 
