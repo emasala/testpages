@@ -10,7 +10,8 @@ Some of the software tools can be found in the [VQEG Tools page](https://vqeg.gi
 
 ## Current Projects
 
-...
+[Projects](/projects/)
+
 ### Contact
 
 These pages are maintained by the JEG-Hybrid group. You are welcome to join the Mailing list [jeg@lyris.vqeg.org](mailto:jeg@lyris.vqeg.org) for more information.
