@@ -3,10 +3,10 @@ theme: jekyll-theme-slate
 
 # Site Settings
 locale                   : "en-US"
-title                    : "VQEG JEG"
+title                    : "VQEG-JEG"
 title_separator          : "-"
 name                     : ""
-description              : "VQEG JEG website"
+description              : "VQEG-JEG website"
 url                      : "https://emasala.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/testpages" # the subpath of your site, e.g. "/blog"
 repository               : "emasala/testpages" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
