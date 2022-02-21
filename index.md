@@ -14,6 +14,7 @@ New open access paper on ....  (IEEE Access)
 
 ## Current Projects
 
+[Projects](./projects/)
 ...
 
 ## JEG Resources
@@ -76,8 +77,6 @@ The Working Group has biweekly conference calls, announced on the mailing list, 
 Next meeting dates: Feb 21, 2022; March 7, 2022; March 21, 2022. Link: https://th-deg-de.zoom.us/j/81780467139
 
 * Communication
-
-
 
 ### Contact
 
